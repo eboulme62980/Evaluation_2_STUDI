@@ -30,3 +30,7 @@ Accès gratuit possible.
 
 En raison de l'utilisation d'une infime partie des icônes proposées par Bootstrap les icônes seront dans un dossier images situés à la racine(et non un import global de toutes les iônes Bootstrap).
 
+[Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown)
+
+[Pro Git en français consultable en ligne](https://git-scm.com/book/fr/v2)
+
