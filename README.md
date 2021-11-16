@@ -38,3 +38,7 @@ En raison de l'utilisation d'une infime partie des icônes proposées par Bootst
 
 [Pro Git en français consultable en ligne](https://git-scm.com/book/fr/v2)
 
+[Image fond d'écran](https://pixabay.com/fr/photos/d%c3%a9-jeu-monochrome-lancer-les-d%c3%a9s-1502706/)
+
+Images libres de droit et téléchargeables gratuitement.
+
