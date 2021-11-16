@@ -24,6 +24,10 @@ Bonne intégration du HTML,CSS,Bootstrap et Javascript dans VSC.
 
 Accès gratuit possible.
 
+[Format images de dés: SVG](https://developer.mozilla.org/fr/docs/Web/SVG)
+
+Aucune déformation dans le cas de redimensionnement pour s'adapter aux différentes tailles d'écran.
+
 
 ## Liens utiles
 [Sources des icônes de dés](https://icons.getbootstrap.com/)
