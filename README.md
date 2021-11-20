@@ -1,5 +1,6 @@
 # Evaluation_2_Studi
 Dynamiser vos sites web avec Javascript
+[Démonstation sur Heroku]()
 
 
 ## Objectif à atteindre
@@ -16,7 +17,7 @@ Dynamiser vos sites web avec Javascript
 
 Permets de prototyper rapidement et gère le responsive(import via CDN car fonctionnalitées basiques).
 
-[IDE: Visual Stdio Code](https://code.visualstudio.com/)
+[IDE: Visual Studio Code](https://code.visualstudio.com/)
 
 Bonne intégration du HTML,CSS,Bootstrap et Javascript dans VSC.
 
