@@ -14,7 +14,7 @@ Dynamiser vos sites web avec Javascript
 ## Choix technologiques
 [Framework CSS: Bootstrap](https://getbootstrap.com/)
 
-Permets de prototyper rapidement.
+Permets de prototyper rapidement et gère le responsive(import via CDN car fonctionnalitées basiques).
 
 [IDE: Visual Stdio Code](https://code.visualstudio.com/)
 
