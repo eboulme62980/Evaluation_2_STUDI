@@ -42,3 +42,7 @@ En raison de l'utilisation d'une infime partie des icônes proposées par Bootst
 
 Images libres de droit et téléchargeables gratuitement.
 
+## Améliorations futures
+* Revoir le responsive de "player-1-panel et player-2-panel"
+* Redimensionnement responsive image de background
+

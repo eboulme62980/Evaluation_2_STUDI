@@ -1,0 +1,112 @@
+body {
+    background-color: #d3dcee;
+    background-image: url("../images/bg.jpg");
+    font-family: Lato;
+}
+ .no-javascript{
+     padding-top: 3vh;
+ }
+
+ .no-javascript p{
+     text-align: center;
+ }
+
+.game-container {
+    height: 100vh;
+}
+.panel{
+    border: 0.5em solid rgb(131, 95, 42);
+}
+
+.player-0-panel , .player-1-panel {
+    height: 50vh;
+    width: 25vw;
+    min-height: 6em;
+    min-width: 9em;
+}    
+
+.player-name {
+    font-size: 1.8vh;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-top: 5vh;
+    margin-bottom: 1vh; 
+}
+
+.player-global-score {
+    font-size: 8vh;
+    text-align: center;
+    font-weight: 0;
+    color: #df1c1c;
+    margin-bottom: 25%;
+}
+
+.player-current-panel {
+    background-color: #da5656;
+    color: #fff;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 8vh;
+    padding: 1%;
+    text-align: center;
+}
+
+.panel-command {
+  text-align: center;
+  width: 50%;
+  left: 50%;
+  margin-left: -25%;
+  height: 100%;
+}
+
+.panel-command-inner {
+    width: auto;
+    margin: auto;
+    height: 100%;
+}
+
+.dice {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translateX(-50%);
+    height: 25%;
+    width: 25%;
+}
+
+.inner1 {
+    margin-top: 1vh;
+}
+
+.inner2 {
+    margin-bottom: 6vh;
+}
+
+.p1, .p2, .p3 {
+    color: #df1c1c;
+    cursor: pointer;
+    font-size: 3vh;
+}
+
+.p1:hover, .p2:hover, .p3:hover { 
+    font-weight: 800; 
+}
+
+.p1:active, .p2:active, .p3:active { 
+    color: #000; 
+}
+
+.active {
+background-color: rgb(219, 208, 208);
+}
+
+.active .player-name::after {
+    content: "\1F448";
+}
+
+.winner .player-name { 
+    font-weight: 250; 
+    color: #1f0404; 
+}
+
