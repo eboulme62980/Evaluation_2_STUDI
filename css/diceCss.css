@@ -106,7 +106,12 @@ background-color: rgb(219, 208, 208);
 }
 
 .winner .player-name { 
-    font-weight: 250; 
-    color: #1f0404; 
+    font-weight: 800; 
+    color: #383111; 
 }
+
+.victory-bg{
+    background-color: rgb(155, 176, 190);
+}
+    
 
