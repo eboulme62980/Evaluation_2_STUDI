@@ -1,5 +1,6 @@
 # Evaluation_2_Studi
-Dynamiser vos sites web avec Javascript
+Dynamiser vos sites web avec Javascript.
+
 [Démonstation sur Heroku](https://dice-game-eboulme.herokuapp.com/)
 
 
@@ -34,6 +35,10 @@ Aucune déformation dans le cas de redimensionnement pour s'adapter aux différe
 [Sources des icônes de dés](https://icons.getbootstrap.com/)
 
 En raison de l'utilisation d'une infime partie des icônes proposées par Bootstrap les icônes seront dans un dossier images situés à la racine(et non un import global de toutes les iônes Bootstrap).
+
+[Image de back-ground](https://pixabay.com/fr/photos/d%c3%a9-jeu-monochrome-lancer-les-d%c3%a9s-1502706/)
+
+Image utilisable librement.
 
 [Petit guide des commandes en mark-down](https://support.zendesk.com/hc/fr/articles/203691016-Formatage-de-texte-avec-Markdown)
 
